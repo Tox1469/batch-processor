@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/batch-processor/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/batch-processor/actions)
+[![License](https://img.shields.io/github/license/Tox1469/batch-processor?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/batch-processor?style=flat-square)](https://github.com/Tox1469/batch-processor/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/batch-processor?style=flat-square)](https://github.com/Tox1469/batch-processor/stargazers)
+
+---
+
 # batch-processor
 
 Agrupa itens em lotes e executa flush quando atinge tamanho máximo ou tempo limite.
